@@ -17,6 +17,7 @@ Orientações para instalar o Jupyter Notebook clique [aqui](https://jupyter.rea
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - [Numpy](https://pypi.org/project/numpy/)
 - [Pymongo](https://pypi.org/project/pymongo/)
+- [redis](https://pypi.org/project/redis/)
 
 ### Redinsgo
 
